@@ -56,7 +56,6 @@ By default, users cannot approve a script they have authored. Because scripts ar
 2. In the **Administration** workspace, expand **Site Configuration**, and then click **Sites**.
 3. In the list of sites, choose your site and then, on the **Home** tab, in the **Sites** group, click **Hierarchy Settings**.
 4. On the **General** tab of the **Hierarchy Settings Properties** dialog box, clear the checkbox **Do not allow script authors to approve their own scripts**.
-Sites
 
 ## Import and edit a script
 
